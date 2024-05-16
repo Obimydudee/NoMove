@@ -33,7 +33,7 @@ namespace NoMove
 
         public static void LoadAssets()
         {
-            QuickMenuAPI.PrepareIcon("NoMove", "NoMoveLogo", Assembly.GetExecutingAssembly().GetManifestResourceStream("NoMove.Resources.iamgoingtoslitsomeonesdickoff.png"));
+            QuickMenuAPI.PrepareIcon("NoMove", "NoMoveLogo", Assembly.GetExecutingAssembly().GetManifestResourceStream("NoMove.Resources.nomoving.png"));
         }
 
         public static void HRR(Page element)
